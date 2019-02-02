@@ -6,9 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class FriendTestingTeamApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(FriendTestingTeamApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(FriendTestingTeamApplication.class, args);
+	}
 
 }
 
